@@ -3,14 +3,9 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 /**
- * @title Building an Auction App
- * @notice Building a decentralised dApp with the Following 
- * @dev Your mission is to write a decentralized auction DApplication which can at the minimum 
-        have the following functionality.
-
     Final Exercise: Create an Auction DApplication (The Decentralized Ebay)
 
-    1. You must create a contract called auction which contains state variables to keep track 
+    1. Сreate a contract called auction which contains state variables to keep track 
     of the beneficiary (auctioneer), the highest bidder, the auction end time, and the highest bid. 
 
     2. There must be events set up which can emit whenever the highest bid changes both address 
